@@ -16,12 +16,12 @@ export const Projects = () => {
 
 	return (
 		<div className={styles.container}>
-			<p className={styles.heading}>Projects</p>
+			{/* <p className={styles.heading}>Projects</p>
 			<p className={styles.desc}>
 				Here are some of the projects I've developed and worked on,
 				showcasing my skills and creativity.
-			</p>
-			<div className={styles.timeline}>
+			</p> */}
+			{/* <div className={styles.timeline}>
 				<div className={`${styles.box} ${styles.left_box}`}>
 					<img
 						className={styles.icons}
@@ -340,7 +340,7 @@ export const Projects = () => {
 						<span className={styles.left_box_arrow}></span>
 					</div>
 				</div>
-			</div>
+			</div> */}
 		</div>
 	);
 };
