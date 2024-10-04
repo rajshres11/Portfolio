@@ -1,5 +1,4 @@
 # Portfolio
-<<<<<<< HEAD
 Welcome to my portfolio! This project showcases my skills, projects and experiences as a web developer and programmer.
 
 ## Introduction
@@ -56,6 +55,3 @@ To get a local copy up and running, follow these simple steps.
 
 ## License
 This project is licensed under the terms of the MIT license. You can find the [LICENSE](LICENSE) file in the root directory of the project.
-=======
-My portfolio website 
->>>>>>> d324822ddbfa5230151745b30bfdaf4d37f47fe1

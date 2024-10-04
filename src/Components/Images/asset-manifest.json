@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.bd85ca96.css",
+    "main.js": "/portfolio/static/js/main.6182ba07.js",
+    "static/media/intellijidea.png": "/portfolio/static/media/intellijidea.a55f76b0f1b3cdde0dec.png",
+    "static/media/oops.jpg": "/portfolio/static/media/oops.587bb7cc4566478eff6d.jpg",
+    "static/media/greatlearningcertificated.png": "/portfolio/static/media/greatlearningcertificated.0a64356cb6f6fca0c7a3.png",
+    "static/media/github.png": "/portfolio/static/media/github.8b41d65d042e60ce4888.png",
+    "static/media/offerletter.png": "/portfolio/static/media/offerletter.b627a0593bb2881def2b.png",
+    "static/media/bootstrap.png": "/portfolio/static/media/bootstrap.894887cecf54dbe0519a.png",
+    "static/media/Udemycertificate.png": "/portfolio/static/media/Udemycertificate.552054f5148aef4df248.png",
+    "static/media/dsa.png": "/portfolio/static/media/dsa.2158cbf591a9d0c5c8a0.png",
+    "static/media/eclipse.png": "/portfolio/static/media/eclipse.a36eec0f4ef90ea082aa.png",
+    "static/media/restapi.png": "/portfolio/static/media/restapi.6ccdbc0a12e62903abf5.png",
+    "static/media/shresthprofile.jpeg": "/portfolio/static/media/shresthprofile.fc826fb08f149ab5b3af.jpeg",
+    "static/media/chatgpt.png": "/portfolio/static/media/chatgpt.c8587c9475797ae3b90b.png",
+    "static/media/reactbootstrap.png": "/portfolio/static/media/reactbootstrap.7fcf708da7dd0f3f27a2.png",
+    "static/media/gradle.png": "/portfolio/static/media/gradle.ace58c04766e74b91d10.png",
+    "static/media/mysql.png": "/portfolio/static/media/mysql.c892ee177d6d960fd17b.png",
+    "static/media/reactjs.png": "/portfolio/static/media/reactjs.42af958be629ef4ba417.png",
+    "static/media/html.png": "/portfolio/static/media/html.be2d4ec589cb02024631.png",
+    "static/media/maven.png": "/portfolio/static/media/maven.f09669a62e871a56c259.png",
+    "static/media/javascript.png": "/portfolio/static/media/javascript.3aa83565efa951263491.png",
+    "static/media/vscode.png": "/portfolio/static/media/vscode.47a1aa44331cef92993c.png",
+    "static/media/git.png": "/portfolio/static/media/git.96b077b6430eeb1b9547.png",
+    "static/media/css.png": "/portfolio/static/media/css.a288a8a63edf92a5c528.png",
+    "static/media/cbsce.jpeg": "/portfolio/static/media/cbsce.a2aadc4a57249024a32b.jpeg",
+    "static/media/java.png": "/portfolio/static/media/java.b997adcc8d0067decc7f.png",
+    "index.html": "/portfolio/index.html",
+    "main.bd85ca96.css.map": "/portfolio/static/css/main.bd85ca96.css.map",
+    "main.6182ba07.js.map": "/portfolio/static/js/main.6182ba07.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bd85ca96.css",
+    "static/js/main.6182ba07.js"
+  ]
+}
