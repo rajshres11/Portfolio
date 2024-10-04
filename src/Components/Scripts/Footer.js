@@ -47,7 +47,7 @@ export const Footer = () => {
 					</svg>
 				</a> */}
 				<a
-					href="www.linkedin.com/in/shresth-raj01"
+					href="https://www.linkedin.com/in/shresth-raj-632355216/"
 					target="_blank"
 					rel="noreferrer"
 					title="LinkedIn"
