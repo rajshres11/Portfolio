@@ -19,7 +19,7 @@ export const Achievements = () => {
 				<div className={`${styles.box} ${styles.left_box}`}>
 					<img
 						className={styles.icons}
-						src={require("../Images/offerletter.png")}
+						src={require("../Images/offerletterlogo.png")}
 						alt="leetcode"
 						data-aos="zoom-in"
 					/>
@@ -42,7 +42,7 @@ export const Achievements = () => {
 				<div className={`${styles.box} ${styles.right_box}`}>
 					<img
 						className={styles.icons}
-						src={require("../Images/Udemycertificate.png")}
+						src={require("../Images/certificate logo.jpeg")}
 						alt="consistency"
 						data-aos="zoom-in"
 					/>
@@ -67,7 +67,7 @@ export const Achievements = () => {
 				<div className={`${styles.box} ${styles.left_box}`}>
 					<img
 						className={styles.icons}
-						src={require("../Images/greatlearningcertificated.png")}
+						src={require("../Images/certificate logo.jpeg")}
 						alt="certificates"
 						data-aos="zoom-in"
 					/>

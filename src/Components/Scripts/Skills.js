@@ -2,6 +2,7 @@ import styles from "../Styles/Skills.module.css";
 import VanillaTilt from "vanilla-tilt";
 import { useEffect } from "react";
 
+
 export const Skills = () => {
     useEffect(() => {
         const isTouchDevice = () => {
@@ -58,14 +59,14 @@ export const Skills = () => {
                     <div className={`${styles.cards} tilt`}>
                         <div>Backend & Database</div>
                         <div className={styles.tech_box}>
-                            <div className={styles.tech}><img src={require("../Images/springboot.jpeg")} alt="Springboot" />Springboot</div>
-                            <div className={styles.tech}><img src={require("../Images/hibernate.jpeg")} alt="Hibernate" />Hibernate</div>
+                            <div className={styles.tech} ><img src={require("../Images/springboot.png")} alt="Springboot" />Springboot</div>
+                            <div className={styles.tech}><img src={require("../Images/hibernate.png")} alt="Hibernate" />Hibernate</div>
                             {/* <div className={styles.tech}><img src={require("../Images/mongodb.png")} alt="mongodb" />MongoDB</div> */}
                             <div className={styles.tech}><img src={require("../Images/mysql.png")} alt="mysql" />MySQL</div>
                             <div className={styles.tech}><img src={require("../Images/maven.png")} alt="maven" />Maven</div>
                             <div className={styles.tech}><img src={require("../Images/gradle.png")} alt="gradle" />Gradle</div>
-                            {/* <div className={styles.tech}><img src={require("../Images/thunderclient.png")} alt="thunderclient" />Thunder Client</div>
-                            <div className={styles.tech}><img src={require("../Images/glitch.png")} alt="glitch" />Glitch</div> */}
+                             <div className={styles.tech}><img src={require("../Images/firebase.png")} alt="firebase" />Firebase</div>
+                           {/* <div className={styles.tech}><img src={require("../Images/glitch.png")} alt="glitch" />Glitch</div> */}
                         </div>
                     </div>
                     <div className={`${styles.cards} tilt`}>
