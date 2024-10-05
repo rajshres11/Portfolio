@@ -6,7 +6,7 @@ export const Footer = () => {
 			<p className={styles.name}>Shresth Raj</p>
 			<div className={styles.links}>
 				<a
-					href="https://drive.google.com/file/d/1ZwLi5skN6OpH8ICxC4BpGsNLA6rBzGAu/view?usp=drive_link"
+					href="https://drive.google.com/file/d/1ZwLi5skN6OpH8ICxC4BpGsNLA6rBzGAu/view?usp=sharing"
 					target="_blank"
 					rel="noreferrer"
 					title="Resume"
