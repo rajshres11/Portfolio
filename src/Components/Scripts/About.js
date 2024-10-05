@@ -48,7 +48,7 @@ export const About = () => {
 					meaningful contribution and achieve great things.
 				</div>
 				<a
-					href="https://drive.google.com/file/d/1ZwLi5skN6OpH8ICxC4BpGsNLA6rBzGAu/view?usp=drive_link"
+					href="https://drive.google.com/file/d/1ZwLi5skN6OpH8ICxC4BpGsNLA6rBzGAu/view?usp=sharing"
 					target="_blank"
 					rel="noreferrer"
 					className={styles.resume}
