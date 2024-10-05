@@ -59,7 +59,7 @@ export const About = () => {
 			<img
 				className={styles.mypic}
 				ref={tiltRef}
-				src={require("../Images/shresthprofile.jpeg")}
+				src={require("../Images/shresthprofile-removebg.png")}
 				alt="mypic"
 			/>
 		</div>

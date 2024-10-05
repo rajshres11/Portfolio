@@ -59,13 +59,13 @@ export const Skills = () => {
                     <div className={`${styles.cards} tilt`}>
                         <div>Backend & Database</div>
                         <div className={styles.tech_box}>
-                            <div className={styles.tech} ><img src={require("../Images/springboot.png")} alt="Springboot" />Springboot</div>
-                            <div className={styles.tech}><img src={require("../Images/hibernate.png")} alt="Hibernate" />Hibernate</div>
+                            <div className={styles.tech} ><img src={require("../Images/springboot-removebg.png")} alt="Springboot" />Springboot</div>
+                            <div className={styles.tech}><img src={require("../Images/hibernate-removebg.png")} alt="Hibernate" />Hibernate</div>
                             {/* <div className={styles.tech}><img src={require("../Images/mongodb.png")} alt="mongodb" />MongoDB</div> */}
                             <div className={styles.tech}><img src={require("../Images/mysql.png")} alt="mysql" />MySQL</div>
                             <div className={styles.tech}><img src={require("../Images/maven.png")} alt="maven" />Maven</div>
                             <div className={styles.tech}><img src={require("../Images/gradle.png")} alt="gradle" />Gradle</div>
-                             <div className={styles.tech}><img src={require("../Images/firebase.png")} alt="firebase" />Firebase</div>
+                             <div className={styles.tech}><img src={require("../Images/firebase-removebg.png")} alt="firebase" />Firebase</div>
                            {/* <div className={styles.tech}><img src={require("../Images/glitch.png")} alt="glitch" />Glitch</div> */}
                         </div>
                     </div>
