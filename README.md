@@ -43,7 +43,7 @@ To get a local copy up and running, follow these simple steps.
  - Font Awesome
 
 ## Deployment
- - Live version of Portfolio is available [here](https://amar-codingenthusiast.github.io/portfolio)
+ - Live version of Portfolio is available [here]https://portfolio-shresthraj.vercel.app/()
 
 ## Contributing
  - Contributions are welcome! Here's how you can contribute:
