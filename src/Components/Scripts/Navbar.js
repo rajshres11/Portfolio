@@ -100,7 +100,7 @@ export const Navbar = () => {
 							Skills
 						</NavLink>
 					</li>
-					{/* <li>
+					 <li>
 						<NavLink
 							to="#projects"
 							className={
@@ -112,7 +112,7 @@ export const Navbar = () => {
 						>
 							Projects
 						</NavLink>
-					</li> */}
+					</li> 
 					<li>
 						<NavLink
 							to="#achievements"

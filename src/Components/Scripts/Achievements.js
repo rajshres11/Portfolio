@@ -20,13 +20,13 @@ export const Achievements = () => {
 					<img
 						className={styles.icons}
 						src={require("../Images/offerletterlogo.png")}
-						alt="leetcode"
+						alt="LOC"
 						data-aos="zoom-in"
 					/>
 					<div className={styles.text_box} data-aos="fade-up">
 						<img
-							src={require("../Images/offerletter.png")}
-							alt="leetcoderanking"
+							src={require("../Images/LOCInternship.png")}
+							alt="LOC"
 							width="100%"
 						/>
 						<p className={styles.title}>Intership Offer letter</p>
