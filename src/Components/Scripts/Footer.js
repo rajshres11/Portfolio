@@ -71,7 +71,7 @@ export const Footer = () => {
 					<i className="fa-solid fa-phone"></i>
 				</a>
 				<a
-					href="https://maps.app.goo.gl/WCWHsiEW8tQ3bWBP8"
+					href="https://maps.app.goo.gl/cs1HQ1HQxr6g3Myd6"
 					target="_blank"
 					rel="noreferrer"
 					title="Address"
