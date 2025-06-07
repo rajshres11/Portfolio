@@ -32,13 +32,13 @@ export const About = () => {
 					<br />
 					Shresth Raj
 				</p>
-				<div className={styles.title}>
-					{" "}
-					<span className={styles.typewriter}>
-						{text}
-						// <Cursor />
-					</span>
-				</div>
+				// <div className={styles.title}>
+				// 	{" "}
+				// 	<span className={styles.typewriter}>
+				// 		{text}
+				// 		// <Cursor />
+				// 	</span>
+				// </div>
 				<div className={styles.bio}>
 					I am a passionate Full Stack Developer dedicated to building robust, scalable, and user-centric web applications. I enjoy working across the stack, from designing intuitive user interfaces to architecting efficient backend systems. Proficient in technologies like React.js, JavaScript, Node.js, and Firebase, I thrive on solving complex problems, optimizing performance, and collaborating with teams to turn ideas into reliable, production-ready solutions. With a growth mindset and a strong attention to detail, I aim to deliver applications that are not only functional and performant but also maintainable and accessible.
 
