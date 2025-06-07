@@ -19,7 +19,7 @@ export const About = () => {
 	}, []);
 	const [text] = useTypewriter({
 		words: [
-			"a passionate Full Stack Developer dedicated to building robust, scalable, and user-centric web applications."
+			""
 
 		],
 		loop: {},
@@ -33,7 +33,7 @@ export const About = () => {
 					Shresth Raj
 				</p>
 				<div className={styles.title}>
-					I am {" "}
+					I am a passionate Full Stack Developer dedicated to building robust, scalable, and user-centric web applications.{" "}
 					<span className={styles.typewriter}>
 						{text}
 						<Cursor />
