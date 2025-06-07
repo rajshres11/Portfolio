@@ -68,7 +68,7 @@ export const Education = () => {
 					/>
 					<div className={styles.text_box} data-aos="fade-up">
 						<p className={styles.title}>Matriculation</p>
-						<p className={styles.subtitle}>Board: CBSCE, Delhi</p>
+						<p className={styles.subtitle}>Board: CBSE, Delhi</p>
 						<p>
 							Achieved 88% marks in 2016 from St.Xavier's jr/sr School,
 							Muzaffarpur. This stage of education laid the
