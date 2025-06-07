@@ -36,7 +36,7 @@ export const About = () => {
 					{" "}
 					<span className={styles.typewriter}>
 						{text}
-						<Cursor />
+						// <Cursor />
 					</span>
 				</div>
 				<div className={styles.bio}>
