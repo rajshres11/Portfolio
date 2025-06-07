@@ -19,8 +19,8 @@ export const About = () => {
 	}, []);
 	const [text] = useTypewriter({
 		words: [
-			"a passionate Full Stack Developer dedicated to building robust, scalable, and user-centric web applications".
-"
+			"a passionate Full Stack Developer dedicated to building robust, scalable, and user-centric web applications."
+
 		],
 		loop: {},
 	});
