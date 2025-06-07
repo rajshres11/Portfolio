@@ -1,4 +1,4 @@
-zimport styles from "../Styles/About.module.css";
+import styles from "../Styles/About.module.css";
 import { useRef, useEffect } from "react";
 import VanillaTilt from "vanilla-tilt";
 import { useTypewriter, Cursor } from "react-simple-typewriter";
